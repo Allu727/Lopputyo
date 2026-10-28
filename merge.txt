@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 merge
-=======
 konflikti
->>>>>>> feature1
